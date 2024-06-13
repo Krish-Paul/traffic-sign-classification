@@ -1,4 +1,4 @@
-# traffic-sign-classifica
+# traffic-sign-classificati
 
 - The dataset contains 43 different classes of images. 
 - Classes are as listed below: 
