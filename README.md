@@ -1,6 +1,6 @@
 # traffic-sign-classification
 
-- The dataset contains 43 different classes of images. 
+- The dataset contains 43 different classes of imag
 - Classes are as listed below: 
 
     - ( 0, b'Speed limit (20km/h)') ( 1, b'Speed limit (30km/h)')
